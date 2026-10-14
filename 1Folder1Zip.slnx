@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OneFolderOneZip.Core/OneFolderOneZip.Core.csproj" />
+    <Project Path="src/OneFolderOneZip.App/OneFolderOneZip.App.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/OneFolderOneZip.Tests/OneFolderOneZip.Tests.csproj" />
+    <Project Path="tests/OneFolderOneZip.UiTests/OneFolderOneZip.UiTests.csproj" />
+  </Folder>
+</Solution>
